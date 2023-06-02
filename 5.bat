@@ -1,6 +1,6 @@
 echo off
-md Kurov
-cd Kurov
-md Dmitry
-md Alexandrovich
+md Mayorov
+cd Mayorov
+md Andrey
+md Maximovich
 pause

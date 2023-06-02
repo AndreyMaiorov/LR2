@@ -1,7 +1,7 @@
 echo off
-cd Kurov
-rd Dmitry
-rd Alexandrovich
+cd Mayorov
+rd Andrey
+rd Maximovich
 cd ..
-rd Kurov
+rd Mayorov
 pause

@@ -1,3 +1,3 @@
 echo off
-del Kyrov /S /Q /F
+del Mayorov /S /Q /F
 pause

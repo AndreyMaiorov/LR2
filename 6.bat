@@ -1,6 +1,6 @@
 echo off
-cd Kurov
-echo > 05032002.txt
-cd Alexandrovich
-echo > huawei.txt
+cd Mayorov
+echo > 02052002.txt
+cd Maximovich
+echo > msi.txt
 pause
